@@ -1,0 +1,10 @@
+.offer{
+    margin-top: 60px;
+}
+.offer h2{
+    text-align: center;
+}
+.offer-content{
+    display: grid;
+    grid-template-columns: repeat(3);
+}

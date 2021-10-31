@@ -1,0 +1,11 @@
+.item-content card{
+    border: none;
+}
+.item{
+    text-align: center;    
+    margin-top: 30px;
+    
+}
+.item img{
+    height: 200px;
+}
